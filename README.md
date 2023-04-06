@@ -23,8 +23,8 @@ ORDER BY num DESC , corpus;
 ```
 After processing the data in the origin, you will get Figure 2. Of course, you can also directly run origin project/paper3_ figure2.opj to get figure2.png
 
-[![](/res/tools/markdown/images/logos/markdown.png)](/res/tools/markdown/images/logos/markdown.png "markdown")
+[![](figure2.png)](figure2.png "figure2.png")
 
 You can compare human in Excel or other tools to conduct statistics on human_ppl and ai_ppl, or you can directly run origin project/paper3_ figure 3.opj obtains figure 3.png
 
-[![](/res/tools/markdown/images/logos/markdown.png)](/res/tools/markdown/images/logos/markdown.png "markdown")
+[![](figure3.png)](figure3.png "figure3.png")
